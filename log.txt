@@ -1,0 +1,2 @@
+INFO:root:Rotina 1 executada em: 2024-05-02 14:53:07
+INFO:root:Rotina 1 executada em: 2024-05-02 14:54:07

@@ -1,0 +1,6 @@
+schedule
+pandas
+requests
+pyodbc
+apscheduler
+psycopg2
