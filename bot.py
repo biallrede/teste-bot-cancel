@@ -2,7 +2,6 @@ import requests
 import logging
 import time
 
-
 # enviar mensagens utilizando o bot para um chat específico utilizando a api do telegram
 def enviar_mensagem(token, chat_id, msg):
     try:

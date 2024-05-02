@@ -5,7 +5,6 @@ from mensagem import configura_mensagem
 import schedule
 import logging
 
-
 scheduler = BackgroundScheduler()
 
 def rotina1():

@@ -8,7 +8,6 @@ import datetime
 
 def configura_mensagem(token,chat_id): 
 
-
 # Separação por Regionais
 
         df_cancel = query_cancel_vol()
